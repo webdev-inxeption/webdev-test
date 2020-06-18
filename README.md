@@ -17,5 +17,5 @@ The site should have a section where is possible to select the image to load, an
 
 # Restrictions
 - Don't use a CSS Framework
-- Don't use a React Framework
+- Don't use a React Framework (Next.JS or another similar)
 - Don't use React libraries that provide components to solve the problem description
